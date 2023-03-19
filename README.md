@@ -1,4 +1,16 @@
-### Hi there 👋
+<div align="center">
+  
+  <!-- dynamic typing effect 动态打字效果 -->
+  <div align="center">
+    <a href="https://blog.bywind.xyz/">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=System.out.println(%22Hello%2C+World!%22);Console.WriteLine(%22Hello%2C+World!%22);fmt.Println(%22Hello%2C+World!%22)" alt="Typing SVG" />
+    </a>
+  </div>
+
+</div>
+
+
+<!-- ### Hi there 👋 -->
 
 <!--
 **haonan15/haonan15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
