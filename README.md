@@ -6,6 +6,9 @@
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=System.out.println(%22Hello%2C+World!%22);Console.WriteLine(%22Hello%2C+World!%22);fmt.Println(%22Hello%2C+World!%22)" alt="Typing SVG" />
     </a>
   </div>
+  
+  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+  <img src="https://cdn.jsdelivr.net/gh/haonan15/haonan15/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
